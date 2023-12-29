@@ -1,0 +1,61 @@
+{
+  "ascii": [
+    "███████╗██╗   ██╗███████╗██╗  ██╗██╗  ██╗   ██████╗ ███████╗██╗   ██╗",
+    "██╔════╝██║   ██║██╔════╝██║  ██║██║  ██║   ██╔══██╗██╔════╝██║   ██║",
+    "███████╗██║   ██║███████╗███████║███████║   ██║  ██║█████╗  ██║   ██║",
+    "╚════██║██║   ██║╚════██║██╔══██║██╔══██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝",
+    "███████║╚██████╔╝███████║██║  ██║██║  ██║██╗██████╔╝███████╗ ╚████╔╝ ",
+    "╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝ "
+  ],
+  "title": "sushmita's terminal",
+  "username": "guest",
+  "hostname": "sushh.dev",
+  "repoLink": "https://github.com/meowyx/terminal",
+  "social": {
+    "email": "devmeowy@gmail.com",
+    "github": "meowyx",
+    "linkedin": "sushmitaaar"
+  },
+  "aboutGreeting": "Hi, I'm Sushmita, a full-stack web3 developer and open source contributor",
+  "projects": [
+    [
+      "Form-XChange",
+      "A feedback form application on Linea ZKEVM.",
+      "https://github.com/Consensys/Form-XChange"
+    ],
+    [
+      "Polis",
+      "Polis is a DApp Marketplace dedicated to showcasing web3 tools, templates, and boilerplates.",
+      "https://github.com/Consensys/polis"
+    ],
+    [
+      "EventSea",
+      "Web3 Event Ticketing DApp on Linea.",
+      "https://github.com/Consensys/eventsea"
+    ]
+  ],
+
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
