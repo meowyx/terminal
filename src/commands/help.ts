@@ -9,6 +9,7 @@ const helpObj = {
     ["'banner'", "Display the banner."],
     ["'clear'", "Clear the terminal."],
     ["'home'", "Go back to sushh.dev."],
+    ["'bookacall'", "Go to book a call with me."],
   ],
 };
 

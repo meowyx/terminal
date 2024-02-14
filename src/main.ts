@@ -256,6 +256,13 @@ function commandHandler(input: string) {
         window.open("https://www.sushh.dev/");
       }, 500);
       break;
+
+    case "bookacall":
+      writeLines(["Redirecting to book a call page...", "<br>"]);
+      setTimeout(() => {
+        window.open("https://cal.com/meowy/coffee-chat");
+      }, 500);
+      break;
     case "linkedin":
       //add stuff here
       break;
